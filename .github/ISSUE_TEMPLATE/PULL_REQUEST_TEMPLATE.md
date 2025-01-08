@@ -1,33 +1,30 @@
-# Pull Request Title
-<!-- Please provide a concise description of the changes in this PR. -->
+### 📌 변경 사항 요약
+- **변경 내용**: (기능 추가/버그 수정/성능 개선 등)
+- **주요 변경 사항**:
+  - (변경된 주요 파일이나 코드)
+  - (변경된 주요 기능이나 동작)
 
-## Description
-<!-- Describe the changes made in this pull request. Include the context and the reason for these changes. -->
+### 🔗 관련 이슈
+- 이 PR은 다음과 관련이 있습니다: #이슈번호
 
-## Related Issue
-<!-- If applicable, link to the issue number related to this PR. -->
-Example: Closes #1234
+### 📝 변경 사항
+- 변경된 파일:
+  - `파일1`
+  - `파일2`
+- 주요 변경 사항:
+  1. (변경 사항 1)
+  2. (변경 사항 2)
+  
+### ✅ 테스트 여부
+- [ ] 기능이 정상적으로 동작하는지 테스트함
+- [ ] 기존 기능이 영향을 받지 않도록 회귀 테스트함
+- [ ] (기타 필요한 테스트)
 
-## Type of Change
-<!-- Please select the relevant option(s): -->
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Breaking change
-- [ ] Documentation update
-- [ ] Other (please specify): ___
+### 📋 체크리스트
+- [ ] 코드 스타일을 준수했음
+- [ ] 문서화가 필요한 부분 추가함 (예: README, 주석 등)
+- [ ] 모든 테스트가 통과했음
+- [ ] 이 PR을 병합하기 전에 모든 리뷰어의 승인을 받음
 
-## How Has This Been Tested?
-<!-- Describe the tests you have run to verify your changes. -->
-- [ ] Test 1
-- [ ] Test 2
-
-## Checklist:
-- [ ] I have read and followed the contributing guidelines.
-- [ ] My code follows the style guidelines of this project.
-- [ ] I have checked my code and corrected any misspellings.
-- [ ] I have added tests to cover my changes, if necessary.
-- [ ] All new and existing tests passed.
-- [ ] I have updated the documentation (if required).
-
-## Screenshots (if applicable):
-<!-- If your changes involve UI, please include screenshots. -->
+### ⚠️ 추가 설명 (선택 사항)
+- (특별히 리뷰어가 참고해야 할 사항이나 다른 중요한 정보가 있으면 작성)
